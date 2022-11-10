@@ -4,6 +4,7 @@ Here is the codes developed for our paper titled "3DUNetGSFormer: A Deep Learnin
 
 ![model](https://user-images.githubusercontent.com/22929034/201015748-60009637-7534-4283-8cf8-2edd41e7f474.png)
 
+Cite our paper at:
 
 Ali Jamali, Masoud Mahdianpari, Brian Brisco, Dehua Mao, Bahram Salehi, Fariba Mohammadimanesh,
 3DUNetGSFormer: A deep learning pipeline for complex wetland mapping using generative adversarial networks and Swin transformer,
