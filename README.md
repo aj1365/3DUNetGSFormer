@@ -19,3 +19,8 @@ ISSN 1574-9541,
 https://doi.org/10.1016/j.ecoinf.2022.101904.
 (https://www.sciencedirect.com/science/article/pii/S1574954122003545)
 
+
+
+#### Ali Jamali, Masoud Mahdianpari, Brian Brisco, Dehua Mao, Bahram Salehi, Fariba Mohammadimanesh, 3DUNetGSFormer: A deep learning pipeline for complex wetland mapping using generative adversarial networks and Swin transformer, Ecological Informatics, Volume 72, 2022, 101904, ISSN 1574-9541, https://doi.org/10.1016/j.ecoinf.2022.101904.
+
+
